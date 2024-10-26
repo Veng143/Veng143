@@ -20,10 +20,8 @@ I'm a passionate coder interested in **software engineering**. Currently studyin
 ---
 
 ### 📌 Featured Projects
-<p align="center">
-  - [**Awesome Project**](https://github.com/Veng143/awesome-repo): An amazing project showcasing unique features.
-  - [**Another Cool Project**](https://github.com/Veng143/another-repo): Highlights my work in software engineering and game development.
-</p>
+- [**Awesome Project**](https://github.com/Veng143/awesome-repo): An amazing project showcasing unique features.
+- [**Another Cool Project**](https://github.com/Veng143/another-repo): Highlights my work in software engineering and game development.
 
 ---
 
