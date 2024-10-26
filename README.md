@@ -1,25 +1,38 @@
-# Hi there! 👋
+# Hello there! 👋 I'm **veng** 
 
-I'm **veng**, a passionate coder diving into software engineering. Currently studying **Computer Science** at **Collège Bois-de-Boulogne**, I'm loving the journey! 🌐💻 
+I'm a passionate coder interested in **software engineering**. Currently studying **Computer Science** at **Collège Bois-de-Boulogne**, I'm diving deep into coding and loving the journey! 🌐💻 
 
 ---
 
 ### 🔥 GitHub Stats
-![veng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veng143&show_icons=true&theme=holi)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veng143&layout=compact&theme=holi)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Veng143&show_icons=true&theme=holi" alt="veng's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veng143&layout=compact&theme=holi" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🛠️ Languages & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+<p align="center">
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+</p>
 
 ---
 
 ### 📌 Featured Projects
-- [**Awesome Project**](https://github.com/Veng143/awesome-repo): An amazing project with unique features and cool designs.
-- [**Another Project**](https://github.com/Veng143/another-repo): Another top project showcasing my work in **software engineering** and **game development**.
+<p align="center">
+  - [**Awesome Project**](https://github.com/Veng143/awesome-repo): An amazing project showcasing unique features.
+  - [**Another Cool Project**](https://github.com/Veng143/another-repo): Highlights my work in software engineering and game development.
+</p>
 
 ---
 
-### 🤝 Connect with Me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-khabbaz-3554b4235/)
+### 🤝 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/tony-khabbaz-3554b4235/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
