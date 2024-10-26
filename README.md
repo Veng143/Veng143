@@ -14,7 +14,7 @@ I'm a passionate coder interested in **software engineering**. Currently studyin
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
 ---
