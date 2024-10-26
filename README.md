@@ -14,4 +14,4 @@ I'm veng, a passionate coder interested in software engineering. Currently study
 - [**Another Cool Project**](https://github.com/Veng143/another-repo): Describe your project briefly and include any unique features or tech used.
 
 ### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Tony Khabbaz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-khabbaz-3554b4235/)
