@@ -6,7 +6,7 @@ I'm veng, a passionate coder interested in software engineering. Currently study
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veng143&layout=compact&theme=holi)
 
 ### 🛠️ Languages & Tools!
-[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 📌 Featured Projects
 
