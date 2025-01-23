@@ -15,6 +15,7 @@ I'm a passionate coder interested in **software engineering**. Currently studyin
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 ---
@@ -29,7 +30,6 @@ I'm a passionate coder interested in **software engineering**. Currently studyin
 <p align="center">
   <a href="https://www.linkedin.com/in/tony-khabbaz-3554b4235/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-twitter-handle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
