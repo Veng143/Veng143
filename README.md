@@ -21,9 +21,9 @@ I'm a passionate coder interested in **software engineering**. Currently studyin
 ---
 
 ### 📌 Featured Projects
-- [**Awesome Project**]((https://github.com/Veng143/STM-sysem)): An amazing project showcasing unique features.
-- [**Another Cool Project**](https://github.com/Veng143/another-repo): Highlights my work in software engineering and game development.
-
+- 🔍 [Filtre](https://github.com/Veng143/Filtre) — Project filtre - Text Binaire
+- ⚙️ [Filtres_Utils](https://github.com/Veng143/STM-system) — First Project 
+- 🧪 [Filtre_Testing](https://github.com/Veng143/Stats) — Project for Stats
 ---
 
 ### 🤝 Let's Connect!
